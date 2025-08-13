@@ -1,6 +1,6 @@
 # Ioannis Ktenidis
 
-**`Digital Craftsman (Developer/Designer/Frontend-Focused)`**
+**`Artificial Intelligence (Researcher & Developer | Web Designer)`**
 
 I am an AI researcher and developer focused on Artificial Intelligence, IoT systems, and Network Security. My primary interest is in non-agentic AI and its applications in building reliable, ethical, and human-aligned technology. My work includes developing machine learning models for network activity classification, designing IoT network simulations, and creating AI-powered solutions deployed in cloud and Kubernetes environments. I am actively involved in European research projects, working on applied AI for secure, high-performance, and efficient networks.
 
